@@ -1,6 +1,6 @@
 
 # Seja bem-vindo (a) ao meu perfil!
-
+<img align="right" alt="Coding" width="400" src="coloque o link aqui">
 ## Sobre Mim
 "Meu nome é Gabriella Pinheiro Ludovico, atualmente tenho 19 anos e estou cursando Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais (PUC-MG).
 
