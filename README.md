@@ -1,35 +1,12 @@
-### 
 
-<!--
-**Gabiew/Gabiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Ciências da Computação - PUC Minas
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduando**: 1° Período - Ciências da Computação PUCMG
-- 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
-- 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
+- 👨‍🎓 **Graduando**: 1° Período - Ciências da Computação - PUCMG
+- 🌱 **Atividades Atuais**: 
 
 ## Habilidades
-
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
 
 ## Projetos Destacados
 
@@ -37,18 +14,4 @@ Here are some ideas to get you started:
 
 Breve descrição do projeto e suas tecnologias principais.
 
-### [Nome do Projeto]
 
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
-
-## Contato
-
-- **E-mail:** [Seu E-mail]
-- **Twitter:** [Seu Perfil no Twitter]
-- **LinkedIn:** [Seu Perfil no LinkedIn]
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
