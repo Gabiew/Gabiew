@@ -4,7 +4,13 @@
 ## Sobre Mim
 
 - 👨‍🎓 **Graduando**: 1° Período - Ciências da Computação - PUCMG
-- 🌱 **Atividades Atuais**: 
+
+## Interesses Pessoais
+- Gosto de desenhar
+- Amo meu Estado Minas Gerais
+- Minha bebida favorita é "cafezin" e capuccino
+- Adoro a área de Exatas e Ciências da Natureza
+- Minha matéria preferida durante o período: Algoritmos e Estrutura de Dados (AEDs)
 
 ## Habilidades
 
