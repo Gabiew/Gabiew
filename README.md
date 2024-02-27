@@ -1,5 +1,5 @@
 
-# Ciências da Computação - PUC Minas
+# Seja bem-vindo (a) ao meu perfil!
 
 ## Sobre Mim
 
