@@ -1,3 +1,4 @@
+[![MasterHead](your image link)](your GitHub link)
 
 # Seja bem-vindo (a) ao meu perfil!
 <img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/25/1d/49/251d49935a0566be9ec2b29bde7ddfc7.gif">
