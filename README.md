@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduando**: 1° Período - Ciências da Computação - PUCMG
+
 
 ## Interesses Pessoais
 - Gosto de desenhar
