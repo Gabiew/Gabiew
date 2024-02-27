@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Graduando do 1° Período de Ciências da Computação - PUC Minas
-
-Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
+# Ciências da Computação - PUC Minas
 
 ## Sobre Mim
 
-- 👨‍🎓 **Graduação**: Engenharia de Software na PUC Minas.
+- 👨‍🎓 **Graduando**: 1° Período - Ciências da Computação PUCMG
 - 🌱 **Atividades Atuais**: Foco em aprimorar meus conhecimentos em desenvolvimento de software, design de sistemas e metodologias ágeis.
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
