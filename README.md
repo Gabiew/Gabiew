@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="![IMG_8768](https://github.com/Gabiew/Gabiew/assets/161458434/6d5989fd-b40d-49b7-9da9-eee6b607f7bf)"/>
+<img align="center" alt="Header" src="https://i.pinimg.com/736x/9f/b1/95/9fb195de84059c47fa9f219c3e8c7fed.jpg"/>
 </div>
 
 # Seja bem-vindo (a) ao meu perfil!
