@@ -9,11 +9,9 @@
 Durante minha trajetória, nunca imaginei que me interessaria por um curso de exatas, pois minha paixão era a medicina. No entanto, no início de 2023, comecei a me apaixonar por matemática, o que acabou despertando meu amor pela computação. Agora estou aqui, completamente envolvida com o curso e todas as diversas oportunidades que ele oferece!"
 
 ## Interesses Pessoais
--🖌️ Gosto de desenhar
--🔺 Amo meu Estado Minas Gerais
--☕ Minha bebida favorita é "cafezin" e capuccino
--⭐ Adoro a área de Exatas e Ciências da Natureza
--💞 Minha matéria preferida durante o período: Algoritmos e Estrutura de Dados (AEDs)
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+
+<div align="justify">
 
 ## Habilidades
  -Ilustrações 
