@@ -1,4 +1,7 @@
-[![MasterHead](your image link)](your GitHub link)
+<div>
+<img align="center" alt="Header" src="![IMG_8768](https://github.com/Gabiew/Gabiew/assets/161458434/6d5989fd-b40d-49b7-9da9-eee6b607f7bf)
+"/>
+</div>
 
 # Seja bem-vindo (a) ao meu perfil!
 <img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/25/1d/49/251d49935a0566be9ec2b29bde7ddfc7.gif">
