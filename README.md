@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://pbs.twimg.com/media/GHYjQpKWMAAnf4Y?format=jpg&name=medium"/>
+<img align="center" alt="Header" src="https://i.pinimg.com/736x/a2/fa/21/a2fa21e72368e6c86dab3812daeff53a.jpg"/>
 </div>
 
 # Seja bem-vindo (a) ao meu perfil!
