@@ -1,6 +1,6 @@
 ------
 <div>
-<img align="center" alt="Header" src=https://github.com/Gabiew/Gabiew/blob/main/IMG_8766.jpg/>
+<img align="center" alt="Header" src=IMG_8766.jpg/>
 </div>
 
 <
