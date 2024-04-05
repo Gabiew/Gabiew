@@ -12,7 +12,6 @@
 ##
 <img align="left" alt="um desenho meu" width="300" src="IMG_8866.jpg"/>
 
-  <p>Olá <br>Meu nome é Gabriella, curso ciências da Computação na PUC-MG</p>
 
 
 
