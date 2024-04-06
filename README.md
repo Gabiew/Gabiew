@@ -19,7 +19,7 @@
 <article><ul>
    - Meu nome é Gabriella, mas eu prefiro que você me chame de Gabi :) <br>
    - Aualmente eu tenho 19 anos e estou cursando o primeiro período de Ciências da Computação na PUC-MG <br>
-   - Estou me descobrindo nessa área de computação!! Digo me descobrindo porque quando eu sai do ensino médio eu queria fazer medicina, então estar nessa área é literamente me reediscobrir <br>
+   - Estou me descobrindo nessa área de computação!! Digo me descobrindo porque quando eu sai do ensino médio eu queria fazer medicina, então estar nessa área é literamente me redescobrir <br>
    - No meu tempo vago eu sou artista!! Amo desenhar (Inclusive todos esses que vocês vêm no meu perfil foi eu mesma que fiz 🤓 )
    - E até um tempo atrás eu era meio nerd! Gosto de animes, mangás e cartoons, embora agora eu não tenha mais tanto tempo para me dedicar assistir <br>
 </ul><article>
