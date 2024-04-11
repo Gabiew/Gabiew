@@ -5,9 +5,8 @@
 
 ##
 
-<div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabiew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=Gabiew" height="180"/>
+<div align="left">
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=Gabiew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
